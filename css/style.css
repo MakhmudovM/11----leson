@@ -126,7 +126,7 @@ body {
 
 .hero {
   height: 600px;
-  background-image: url('./images/Oval.png');
+  background-image: url('../images/Oval.png');
   background-repeat: no-repeat;
   background-position: 500px 0px;
   background-size: 350px 600px;
@@ -147,7 +147,7 @@ body {
 } */
 .hero__content {
   width: 635px;
-  background-image: url('./images/first-line.svg');
+  background-image: url('../images/first-line.svg');
   background-repeat: no-repeat;
   background-position: 270px 0px;
 }
@@ -227,7 +227,7 @@ body {
   background-color: #172339;
   padding: 88px 121px;
   color: #FAF8F6;
-  background-image: url('./images/person-img.png');
+  background-image: url('../images/person-img.png');
   background-repeat: no-repeat;
   background-size: 360px 590px;
   background-position: 121px;
